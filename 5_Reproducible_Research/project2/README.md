@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Michael Galarnyk"
-date: "3/26/2017"
+author: "Goga Wolftenstein"
+date: "2/28/2022"
 output: html_document
 ---
 
