@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the Adverse Health and Economic Impacts of US Storms"
-author: "Michael Galarnyk"
+author: "Goga Wolftenstein"
 date: "2/28/2022"
 output: html_document
 ---
